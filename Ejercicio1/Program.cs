@@ -42,7 +42,7 @@ namespace ConsoleApp2
                 {
                     Console.WriteLine("Mi numero es: " + digito + ", Foo");
                 }
-                Co
+                
                 else  if (digito % 5 == 0)
                 {
                     Console.WriteLine("Mi numero es: " + digito + ", Bar");
