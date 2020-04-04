@@ -1,0 +1,7 @@
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csprojAssemblyReference.cache
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
