@@ -1,0 +1,7 @@
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojAssemblyReference.cache
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
