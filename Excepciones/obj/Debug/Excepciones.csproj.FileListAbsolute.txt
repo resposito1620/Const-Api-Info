@@ -1,0 +1,7 @@
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\MaquinaExpendedoraConsole\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\MaquinaExpendedoraConsole\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\MaquinaExpendedoraConsole\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\MaquinaExpendedoraConsole\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\MaquinaExpendedoraConsole\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\MaquinaExpendedoraConsole\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\Quales User\Desktop\Compu Anterior\Ramiro\Construcc Api Infor\Const-Api-Info\MaquinaExpendedoraConsole\Excepciones\obj\Debug\Excepciones.pdb
